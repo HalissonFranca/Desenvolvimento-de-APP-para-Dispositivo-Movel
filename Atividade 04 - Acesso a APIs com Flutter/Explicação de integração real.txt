@@ -1,0 +1,8 @@
+Explicação de como explicando como a funcionalidadepoderia ser integrada a um e-commerce real.
+
+Essa funcionalidade de cálculo de frete pode ser integrada a um e-commerce real conectando-a ao 
+carrinho de compras. Ao finalizar a compra, o sistema pode capturar o CEP de origem (loja) e o 
+CEP de destino (cliente) e calcular automaticamente o valor do frete, oferecendo opções como 
+SEDEX e PAC. Com base nos dados inseridos, o e-commerce pode exibir o custo do frete e o prazo 
+de entrega, ajustando o valor total da compra. Essa integração melhora a experiência do usuário, 
+tornando o processo de compra mais eficiente e transparente.
